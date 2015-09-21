@@ -9,3 +9,5 @@
 3) From the command line start the proxy as:
     $ node drop_folder_portal.js
 
+# Useful when:
+* You want to upload files to the web by  copying them to a folder 
