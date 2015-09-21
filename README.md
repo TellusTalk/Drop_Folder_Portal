@@ -12,4 +12,3 @@
 # Useful when:
 * You want to upload files to the web by simply by copying them to a folder
 * You have an application that uploads files to a web server and want to have a backup mechanism
-hejski
